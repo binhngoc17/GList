@@ -1,0 +1,11 @@
+#canvas {
+	font-family: "HelveticaNeue-Light", Helvetica, Arial, sans-serif;
+}
+
+.tile {
+	font-family: "HelveticaNeue-Light", Helvetica, Arial, sans-serif;
+	margin: 5px;
+	padding: 5px;
+	float: left;
+	opacity: 0.4;
+}
